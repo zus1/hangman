@@ -1,0 +1,8 @@
+{
+    "title": "Hangman igra",
+    "wordPlaceholder": "Pogodi rijeć",
+    "letterPlaceholder": "Pogodi slovo",
+    "checkButton": "Provjeri",
+    "guessButton": "Provjeri",
+    "newGameButton": "Nova igra"
+}

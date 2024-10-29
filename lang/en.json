@@ -1,0 +1,8 @@
+{
+    "title": "Hangman game",
+    "wordPlaceholder": "Guess word",
+    "letterPlaceholder": "Guess letter",
+    "checkButton": "Check",
+    "guessButton": "Guess",
+    "newGameButton": "New game"
+}
